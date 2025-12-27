@@ -1,0 +1,10 @@
+{
+    "name": "Flow",
+    "alias": "flow",
+    "description": "Flow management module",
+    "keywords": [],
+    "active": true,
+    "providers": [
+        "Modules\\Flow\\App\\Providers\\FlowServiceProvider"
+    ]
+}

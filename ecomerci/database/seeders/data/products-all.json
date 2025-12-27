@@ -1,0 +1,347 @@
+{
+"Sheet1":[
+ {
+  "name": "رازيانه قلم",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:46:\"150 | 250 | 110 | 130 | 280 | 470 | 700 | 1050\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/78-Raziyane-ghalam-.jpg"
+ },
+ {
+  "name": "جوز هندی",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:47:\"150 | 250 | 170 | 220 | 450 | 750 | 1150 | 1800\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/63-Joze-hendi-.jpg"
+ },
+ {
+  "name": "برگ بو",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:29:\"250 | 10 | 20 | 50 | 70 | 100\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/72-Barge-boo-.jpg"
+ },
+ {
+  "name": "دارچين قلم لوله شكسته (اسپيلت)",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:3:\"900\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/77-Darchin-ghalam-lule-shekaste-.jpg"
+ },
+ {
+  "name": "سماق قلم",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:44:\"150 | 250 | 60 | 110 | 230 | 370 | 530 | 870\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/80-Somagh-nasabide-.jpg"
+ },
+ {
+  "name": "بذر خردل",
+  "price": 10000,
+  "category": 7,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:48:\"150 | 250 | 220 | 300 | 550 | 1000 | 1500 | 2100\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/110-Bazre-khardal-.jpg"
+ },
+ {
+  "name": "بهار فلفل",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:40:\"150 | 250 | 100 | 190 | 470 | 740 | 1110\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/73-Bahar-felfel.jpg"
+ },
+ {
+  "name": "گل بنفشه",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:57:\"50 | 75 | 100 | 150 | 250 | 10 | 20 | 30 | 70 | 100 | 140\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/274-Gole-banafshe-.jpg"
+ },
+ {
+  "name": "گل بابونه ريز _شيرين",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:58:\"50 | 75 | 100 | 150 | 250 | 10 | 20 | 80 | 130 | 180 | 240\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/273-Gole-babune-copy.jpg"
+ },
+ {
+  "name": "نسكافه كلاسيک اورا مولتی كافه",
+  "price": 10000,
+  "category": 11,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:44:\"150 | 250 | 70 | 100 | 180 | 300 | 440 | 650\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/262-Nescafe-ora-clasic-.jpg"
+ },
+ {
+  "name": "فلفل قرمز اعلا",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:55:\"150 | 250 | 120 | 180 | 380 | 600 | 1000 | 1360 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/48-Felfel-ghermez-asli-aala-.jpg"
+ },
+ {
+  "name": "ميخک سابيده",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:47:\"150 | 250 | 170 | 240 | 460 | 750 | 1100 | 1730\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/56-mikhak-.jpg"
+ },
+ {
+  "name": "گل پنيرک",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:47:\"75 | 100 | 150 | 250 | 30 | 50 | 70 | 100 | 190\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/276-Gole-panirak-.jpg"
+ },
+ {
+  "name": "ادويه مادر",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:54:\"150 | 250 | 160 | 210 | 400 | 650 | 990 | 1270 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/33-Adviye-madar-.jpg"
+ },
+ {
+  "name": "گل سرخ",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:27:\"150 | 250 | 350 | 500 | 900\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/280-Gole-sorkh-.jpg"
+ },
+ {
+  "name": "قهوه سبز لاغری",
+  "price": 10000,
+  "category": 11,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:47:\"150 | 250 | 180 | 280 | 450 | 770 | 1290 | 1950\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/261-Ghahve-sabze-laghari-.jpg"
+ },
+ {
+  "name": "غنچه گل سرخ داراب",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:42:\"150 | 250 | 30 | 40 | 80 | 140 | 220 | 330\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/271-Gole-sorkhe-ghonche-.jpg"
+ },
+ {
+  "name": "دارچين قلم لوله ای",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:3:\"900\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/76-Darchin-ghalam-lulei-.jpg"
+ },
+ {
+  "name": "چای سبز فله ليزری درجه يک",
+  "price": 10000,
+  "category": 12,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:46:\"150 | 250 | 40 | 100 | 170 | 250 | 360 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/134-Chaye-sabze-leyzeri-.jpg"
+ },
+ {
+  "name": "برگ زيتون",
+  "price": 10000,
+  "category": 4,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:58:\"50 | 75 | 100 | 150 | 250 | 30 | 20 | 70 | 120 | 160 | 270\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/298-Barge-zeyton-.jpg"
+ },
+ {
+  "name": "باديان ستاره ای",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:43:\"150 | 250 | 50 | 70 | 140 | 270 | 390 | 600\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/70-Badiyan-setarei.jpg"
+ },
+ {
+  "name": "فلفل سفيد",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:41:\"150 | 250 | 180 | 530 | 840 | 1300 | 2050\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/82-Felfel-sefid-.jpg"
+ },
+ {
+  "name": "فلفل قرمز چيلی دان",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:46:\"150 | 250 | 130 | 160 | 280 | 500 | 780 | 1200\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/50-Felfelchili-dan.jpg"
+ },
+ {
+  "name": "فلفل شاخ بزی",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:21:\"250 | 350 | 500 | 900\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/83-Felfel-shakh-bozi-.jpg"
+ },
+ {
+  "name": "نعنا خشک",
+  "price": 10000,
+  "category": 6,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:42:\"150 | 250 | 20 | 40 | 80 | 120 | 170 | 280\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/190-Nana-khoshk-.jpg"
+ },
+ {
+  "name": "ادويه كاری سبز معطر",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:43:\"160 | 230 | 410 | 700 | 1050 | 1360 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/31-Adviye-kari-moatar-.jpg"
+ },
+ {
+  "name": "گل زرد",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:51:\"75 | 100 | 150 | 250 | 30 | 40 | 60 | 80 | 90 | 130\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/278-Gole-zard-.jpg"
+ },
+ {
+  "name": "پودر كاكائو هلندی فله",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:46:\"150 | 250 | 140 | 190 | 350 | 560 | 870 | 1230\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/95-Podre-cocoa-.jpg"
+ },
+ {
+  "name": "فلفل عنابی معطر",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:37:\"250 | 40 | 60 | 130 | 200 | 300 | 460\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/84-Felfel-anabi.jpg"
+ },
+ {
+  "name": "انبه فلافل",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:55:\"150 | 250 | 230 | 300 | 530 | 890 | 1390 | 1720 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/35-Anbe-felafel-.jpg"
+ },
+ {
+  "name": "فلفل رنگين كمان",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:27:\"150 | 250 | 350 | 500 | 900\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/47-Felfel-ranginkaman-.jpg"
+ },
+ {
+  "name": "بهار نارنج",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:41:\"150 | 250 | 20 | 30 | 60 | 90 | 140 | 220\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/268-Bahar-narenj-.jpg"
+ },
+ {
+  "name": "پودر گوجه",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:55:\"150 | 250 | 130 | 210 | 400 | 700 | 1060 | 1420 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/39-Podre-goje-.jpg"
+ },
+ {
+  "name": "پودر خردل",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:47:\"150 | 250 | 190 | 280 | 520 | 870 | 1360 | 1650\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/37-Podre-khardal.jpg"
+ },
+ {
+  "name": "زيره سابيده",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:54:\"150 | 250 | 120 | 180 | 350 | 580 | 960 | 1320 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/43-Zire-sabide-.jpg"
+ },
+ {
+  "name": "رازيانه سابيده",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:54:\"150 | 250 | 160 | 200 | 360 | 600 | 950 | 1210 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/42-Raziyane-sabide-.jpg"
+ },
+ {
+  "name": "پودر سير ايرانی اعلا",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:50:\"150 | 250 | 310 | 600 | 1000 | 1320 | 2020 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/38-Podre-sire-aala-.jpg"
+ },
+ {
+  "name": "نعنا خشک بلغور",
+  "price": 10000,
+  "category": 6,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:43:\"150 | 250 | 40 | 50 | 120 | 180 | 320 | 400\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/191-Nana-balghur-.jpg"
+ },
+ {
+  "name": "قهوه ترک سابيده بی مديوم دارک",
+  "price": 10000,
+  "category": 11,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:46:\"150 | 250 | 130 | 240 | 380 | 650 | 950 | 1400\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/258-Ghahve-tork-sabide-.jpg"
+ },
+ {
+  "name": "پودر نارگیل خشک سریلانکا",
+  "price": 10000,
+  "category": 1,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:41:\"150 | 250 | 190 | 500 | 750 | 1100 | 1750\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/10\/96-Podre-nargil-khoshk.jpg"
+ },
+ {
+  "name": "سماق قرمز",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:49:\"150 | 250 | 170 | 490 | 770 | 1140 | 1760 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/45-Somagh-ghermez-.jpg\""
+ },
+ {
+  "name": "فلفل هوا",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:47:\"150 | 250 | 160 | 220 | 450 | 710 | 1050 | 1620\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/85-Felfel-hava.jpg"
+ },
+ {
+  "name": "نسكافه گلد برزيل",
+  "price": 10000,
+  "category": 11,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:44:\"150 | 250 | 70 | 100 | 180 | 300 | 440 | 650\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/263-Nescafe-gold-Brazil-.jpg"
+ },
+ {
+  "name": "گل بيدمشک",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:52:\"50 | 75 | 100 | 150 | 250 | 30 | 40 | 70 | 100 | 180\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/275-Gole-bidmeshk-.jpg"
+ },
+ {
+  "name": "زيره سابيده",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:54:\"150 | 250 | 100 | 160 | 320 | 570 | 850 | 1160 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/43-Zire-sabide-.jpg"
+ },
+ {
+  "name": "استقدوس ايرانی",
+  "price": 10000,
+  "category": 9,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:43:\"150 | 250 | 40 | 60 | 110 | 170 | 240 | 370\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/264-Ostoghodus-irani-.jpg"
+ },
+ {
+  "name": "فلفل قرمز چيلی گرانول (پول بيبر)",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:40:\"150 | 250 | 100 | 280 | 460 | 760 | 1100\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/51-Felfel-geranol.jpg"
+ },
+ {
+  "name": "فلفل قرمز پول بيبر",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:55:\"150 | 250 | 160 | 220 | 410 | 680 | 1100 | 1450 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/49-Felfel-pul-bber.jpg\""
+ },
+ {
+  "name": "فلفل پاپريكا خارجی پررنگ",
+  "price": 10000,
+  "category": 2,
+  "attribute": "a:1:{s:18:\"%d9%88%d8%b2%d9%86\";a:6:{s:4:\"name\";s:6:\"وزن\";s:5:\"value\";s:54:\"150 | 250 | 140 | 210 | 360 | 570 | 880 | 1420 | 10000\";s:8:\"position\";i:0;s:10:\"is_visible\";i:1;s:12:\"is_variation\";i:1;s:11:\"is_taxonomy\";i:0;}}",
+  "image": "2023\/11\/46-Felfel-paprika-.jpg"
+ }
+]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "وزن",
+    "show_order": 1,
+    "is_active": 1,
+    "creator_id": 1,
+    "created_at": null,
+    "updated_at": null,
+    "deleted_at": null
+  }
+]

@@ -1,0 +1,20 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+use Modules\Ticket\App\Http\Controllers\TicketController;
+
+/*
+|--------------------------------------------------------------------------
+| Web Routes
+|--------------------------------------------------------------------------
+|
+| Here is where you can register web routes for your application. These
+| routes are loaded by the RouteServiceProvider within a group which
+| contains the "web" middleware group. Now create something great!
+|
+*/
+
+Route::middleware(['auth'])->group( function () {
+    Route::delete('tickets/{ticketId}/media/{mediaId}', [TicketController::class, 'destroyMedia'])->name('tickets.media.destroy');
+    Route::resource('/tickets', TicketController::class)->names('tickets');
+});

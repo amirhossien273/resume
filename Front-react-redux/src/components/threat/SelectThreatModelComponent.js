@@ -1,0 +1,229 @@
+import React, { useEffect, useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { Controller, useForm } from "react-hook-form";
+
+import {
+  Modal,
+  ModalBody,
+  ModalFooter,
+  Button,
+  Col,
+  Row,
+  Table,
+} from "reactstrap";
+import { addSelectScorThreat, addSelectThreat, addSelectThreatInput } from "../../redux/threat/selectThreat";
+
+
+const showData = (data, key) => {
+
+  const [inputValues, setInputValues] = useState({});
+  const [selectValues, setSelectValues] = useState({});
+  const [checkedBoxes, setCheckedBoxes] = useState({});
+
+
+  const dispatch = useDispatch();
+  
+  const handelcheckbox = (value, name) => {
+
+    dispatch(addSelectThreat({[name]: {optin_id: value}}));
+  }
+
+    const handelcheckboxInput = (value, itemId) => {
+      console.log(selectValues);
+      console.log(inputValues[itemId] , selectValues[itemId]);
+      if (!inputValues[itemId] || !selectValues[itemId]) {
+       alert("موضوع را وارد کنید");
+        return;
+      }
+  
+      dispatch(addSelectThreatInput({ [itemId]: { name: inputValues[itemId], score: selectValues[itemId] } }));
+  
+      setCheckedBoxes((prev) => ({ ...prev, [itemId]: true }));
+    }
+
+  const handelSelectBox = (value, name) => {
+    setSelectValues((prev) => ({ ...prev, [name]: value }));
+    dispatch(addSelectScorThreat({[name]: {scor: value}}));
+  }
+
+  const handleInputChange = (e, itemId) => {
+    setInputValues((prev) => ({ ...prev, [itemId]: e.target.value }));
+  };
+
+  const dataOption = [
+    {
+        value: 1,
+        label: 1,
+    },
+    {
+        value: 2,
+        label: 2,
+    },
+    {
+        value: 3,
+        label: 3,
+    },
+    {
+        value: 4,
+        label: 4,
+    },
+    {
+        value: 5,
+        label: 5,
+    },
+    {
+        value: 6,
+        label: 6,
+    },
+    {
+        value: 7,
+        label: 7,
+    },
+    {
+        value: 8,
+        label: 8,
+    },
+    {
+        value: 9,
+        label: 9,
+    },
+    {
+        value: 10,
+        label: 10,
+    }
+];
+
+  return data.map( (item, index) => {
+    
+
+    return (
+      <Col key={index} className="col-12">
+        <Row>
+           <Col className="p-2">
+              <span className="text-primary">- {item.name}: </span>
+              <span >{item.description}</span>
+           </Col>
+        </Row>
+        <Table striped bordered hover>
+        <thead>
+          <tr>
+             <th>{item.name}</th>
+             <th>معیار</th>
+             <th>امتیاز</th>
+          </tr>
+          </thead>
+          <tbody>
+              {
+                item.children.map( (child, indexChild) => {
+                  
+                  // const dataOption = [];
+
+                  // for(let i = child.ofScor; i <= child.untilScor; i++){
+                  //   dataOption.push(i);
+                  // }
+                  return (
+                    <tr key={indexChild}>
+                        <td>
+                          <input
+                            name={`item${index}[]`}
+                            className="form-check-input"
+                            type="radio"
+                            value={child.id}
+                            onChange={ (e) => {handelcheckbox(e.target.value, index)}}
+                          />
+                          <label
+                            className="ms-25 form-check-label fw-bolder text-capitalize font-medium-1"
+                          >
+                            {/* {child.name} */}
+                          </label>
+                        </td>
+                        <td>{child.description}</td>
+                        <td>
+                        <select onChange={(e) => handelSelectBox(e.target.value, child.id)}>
+                        <option value={null}>...</option>
+                        {dataOption.map((item, index) => {
+                          return (
+                            <option key={index} value={item.value}>{item.label}</option>
+                          )
+                        })}     
+                    </select>
+                        </td>
+                    </tr>
+                  )
+                })
+                
+              }
+              <tr>
+                <td>
+                      <input
+                        name={`item${item.id}[]`}
+                        className="form-check-input"
+                        type="radio"
+                        value={`add${item.id}`}
+                        checked={checkedBoxes[item.id] || false}
+                        onChange={(e) => handelcheckboxInput(e.target.value, item.id)}
+                      />
+                     
+                    </td>
+                    <td>
+                    <label style={{  width: '100%'}} className="ms-25 form-check-label fw-bolder text-primary text-capitalize font-medium-1">
+                        <input style={{  width: '100%'}} 
+                        className={`form-control`} 
+                        placeholder="" 
+                         id="asset" 
+                         type="text"  
+                         onChange={(e) => handleInputChange(e, item.id)}
+                         />
+                      </label>
+                    </td>
+                    <td>
+                    <select onChange={(e) => handelSelectBox(e.target.value, item.id)}>
+                        <option value={null}>...</option>
+                        {dataOption.map((item, index) => {
+                          return (
+                            <option key={index} value={item.value}>{item.label}</option>
+                          )
+                        })}     
+                    </select>
+                    </td>
+                </tr>
+          </tbody>
+        </Table>
+      </Col>
+    );
+  })
+  
+}
+
+const SelectThreatModelComponent = ({ isOpen, toggleModal }) => {
+
+
+
+
+
+  const { SelectThreat } = useSelector( (s) => s);
+
+  return (
+    <Modal isOpen={isOpen} toggle={toggleModal} className="modal-lg">
+      <div className="modal-header">
+        <h5 className="modal-title">ارزیابی آسیب پذیری</h5>
+        <Button
+          type="button"
+          className="btn close font-large-2 p-0"
+          data-dismiss="modal"
+          aria-label="Close"
+          onClick={toggleModal}
+        >
+          <span aria-hidden="true">&times;</span>
+        </Button>
+      </div>
+        <ModalBody style={{  textAlign: "right"}}>
+        {showData(SelectThreat.data)}
+        </ModalBody>
+        <ModalFooter>
+        </ModalFooter>
+    </Modal>
+  );
+};
+
+export default SelectThreatModelComponent;

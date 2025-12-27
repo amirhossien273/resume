@@ -1,0 +1,20 @@
+[
+     {
+      "id": 1,
+      "title": "سریع صبحانه سالم خود را درست کن",
+      "link": "http:\/\/ecomerci.local:8000\/product\/11",
+      "is_active": 1
+     },
+     {
+      "id": 2,
+      "title": "سبزیجات خشک را از ما خریداری کنید",
+      "link": "http:\/\/ecomerci.local:8000\/product\/6",
+      "is_active": 1
+     },
+     {
+      "id": 3,
+      "title": "تخفیفات ویژه فقط تا فردا",
+      "link": "http:\/\/ecomerci.local:8000\/product",
+      "is_active": 1
+     }
+]

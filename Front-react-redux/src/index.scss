@@ -1,0 +1,25 @@
+// @import '../node_modules/prismjs/themes/prism-tomorrow';
+// @import './assets/scss/app.scss';
+
+.main-menu .shadow-bottom {
+    background: linear-gradient(-180deg, #283046 44%, rgba(40, 48, 70, 0.51) 73%, rgba(40, 48, 70, 0)) !important;
+  }
+
+  body {
+    background: #d7d7d7 !important;
+  }
+
+  .main-menu.menu-light {
+    background: #1a2342 !important;
+  }
+
+  .main-menu.menu-light .navigation {
+    background: #101a33 !important;
+  }
+
+  .main-menu.menu-light .navigation li a {
+    color: #dcdcdc !important;
+  }
+  .main-menu.menu-light .navigation > li.open:not(.menu-item-closing) > a, [dir] .main-menu.menu-light .navigation > li.sidebar-group-active > a {
+    background: #0c102a !important;
+  }

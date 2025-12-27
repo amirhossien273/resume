@@ -1,0 +1,982 @@
+[
+  {
+    "id": 1,
+    "media_id": 1,
+    "mediable_id": 1,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 2,
+    "media_id": 2,
+    "mediable_id": 2,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 3,
+    "media_id": 3,
+    "mediable_id": 3,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 4,
+    "media_id": 4,
+    "mediable_id": 4,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 5,
+    "media_id": 5,
+    "mediable_id": 5,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 6,
+    "media_id": 6,
+    "mediable_id": 6,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 7,
+    "media_id": 7,
+    "mediable_id": 7,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 8,
+    "media_id": 8,
+    "mediable_id": 8,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 9,
+    "media_id": 9,
+    "mediable_id": 9,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 10,
+    "media_id": 10,
+    "mediable_id": 10,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 11,
+    "media_id": 11,
+    "mediable_id": 11,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 12,
+    "media_id": 12,
+    "mediable_id": 12,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 13,
+    "media_id": 13,
+    "mediable_id": 13,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 14,
+    "media_id": 14,
+    "mediable_id": 14,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 15,
+    "media_id": 15,
+    "mediable_id": 15,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 16,
+    "media_id": 16,
+    "mediable_id": 16,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 17,
+    "media_id": 17,
+    "mediable_id": 17,
+    "mediable_type": "App\\Models\\Category",
+    "channel": "category"
+  },
+  {
+    "id": 18,
+    "media_id": 18,
+    "mediable_id": 1,
+    "mediable_type": "App\\Models\\Slider",
+    "channel": "slider"
+  },
+  {
+    "id": 19,
+    "media_id": 19,
+    "mediable_id": 1,
+    "mediable_type": "App\\Models\\Banner",
+    "channel": "banner"
+  },
+  {
+    "id": 20,
+    "media_id": 20,
+    "mediable_id": 2,
+    "mediable_type": "App\\Models\\Banner",
+    "channel": "banner"
+  },
+  {
+    "id": 22,
+    "media_id": 22,
+    "mediable_id": 3,
+    "mediable_type": "App\\Models\\Banner",
+    "channel": "banner"
+  },
+  {
+    "id": 23,
+    "media_id": 212,
+    "mediable_id": 49,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-49"
+  },
+  {
+    "id": 24,
+    "media_id": 213,
+    "mediable_id": 50,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-50"
+  },
+  {
+    "id": 25,
+    "media_id": 214,
+    "mediable_id": 51,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-51"
+  },
+  {
+    "id": 26,
+    "media_id": 215,
+    "mediable_id": 52,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-52"
+  },
+  {
+    "id": 27,
+    "media_id": 216,
+    "mediable_id": 53,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-53"
+  },
+  {
+    "id": 28,
+    "media_id": 217,
+    "mediable_id": 54,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-54"
+  },
+  {
+    "id": 29,
+    "media_id": 218,
+    "mediable_id": 55,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-55"
+  },
+  {
+    "id": 30,
+    "media_id": 219,
+    "mediable_id": 56,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-56"
+  },
+  {
+    "id": 31,
+    "media_id": 220,
+    "mediable_id": 57,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-57"
+  },
+  {
+    "id": 32,
+    "media_id": 221,
+    "mediable_id": 58,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-58"
+  },
+  {
+    "id": 33,
+    "media_id": 222,
+    "mediable_id": 59,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-59"
+  },
+  {
+    "id": 34,
+    "media_id": 223,
+    "mediable_id": 60,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-60"
+  },
+  {
+    "id": 35,
+    "media_id": 224,
+    "mediable_id": 61,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-61"
+  },
+  {
+    "id": 36,
+    "media_id": 225,
+    "mediable_id": 62,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-62"
+  },
+  {
+    "id": 37,
+    "media_id": 226,
+    "mediable_id": 63,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-63"
+  },
+  {
+    "id": 38,
+    "media_id": 227,
+    "mediable_id": 64,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-64"
+  },
+  {
+    "id": 39,
+    "media_id": 228,
+    "mediable_id": 65,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-65"
+  },
+  {
+    "id": 40,
+    "media_id": 229,
+    "mediable_id": 66,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-66"
+  },
+  {
+    "id": 41,
+    "media_id": 230,
+    "mediable_id": 67,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-67"
+  },
+  {
+    "id": 43,
+    "media_id": 232,
+    "mediable_id": 69,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-69"
+  },
+  {
+    "id": 44,
+    "media_id": 233,
+    "mediable_id": 68,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-68"
+  },
+  {
+    "id": 45,
+    "media_id": 234,
+    "mediable_id": 70,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-70"
+  },
+  {
+    "id": 46,
+    "media_id": 235,
+    "mediable_id": 71,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-71"
+  },
+  {
+    "id": 47,
+    "media_id": 236,
+    "mediable_id": 72,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-72"
+  },
+  {
+    "id": 48,
+    "media_id": 237,
+    "mediable_id": 73,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-73"
+  },
+  {
+    "id": 49,
+    "media_id": 238,
+    "mediable_id": 74,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-74"
+  },
+  {
+    "id": 50,
+    "media_id": 239,
+    "mediable_id": 75,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-75"
+  },
+  {
+    "id": 51,
+    "media_id": 240,
+    "mediable_id": 76,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-76"
+  },
+  {
+    "id": 52,
+    "media_id": 241,
+    "mediable_id": 77,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-77"
+  },
+  {
+    "id": 53,
+    "media_id": 242,
+    "mediable_id": 78,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-78"
+  },
+  {
+    "id": 54,
+    "media_id": 243,
+    "mediable_id": 79,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-79"
+  },
+  {
+    "id": 55,
+    "media_id": 244,
+    "mediable_id": 80,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-80"
+  },
+  {
+    "id": 56,
+    "media_id": 245,
+    "mediable_id": 81,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-81"
+  },
+  {
+    "id": 57,
+    "media_id": 246,
+    "mediable_id": 82,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-82"
+  },
+  {
+    "id": 58,
+    "media_id": 247,
+    "mediable_id": 83,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-83"
+  },
+  {
+    "id": 59,
+    "media_id": 248,
+    "mediable_id": 84,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-84"
+  },
+  {
+    "id": 60,
+    "media_id": 249,
+    "mediable_id": 85,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-85"
+  },
+  {
+    "id": 61,
+    "media_id": 250,
+    "mediable_id": 86,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-86"
+  },
+  {
+    "id": 62,
+    "media_id": 251,
+    "mediable_id": 87,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-87"
+  },
+  {
+    "id": 63,
+    "media_id": 252,
+    "mediable_id": 88,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-88"
+  },
+  {
+    "id": 64,
+    "media_id": 253,
+    "mediable_id": 89,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-89"
+  },
+  {
+    "id": 65,
+    "media_id": 254,
+    "mediable_id": 90,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-90"
+  },
+  {
+    "id": 66,
+    "media_id": 255,
+    "mediable_id": 91,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-91"
+  },
+  {
+    "id": 67,
+    "media_id": 256,
+    "mediable_id": 92,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-92"
+  },
+  {
+    "id": 68,
+    "media_id": 257,
+    "mediable_id": 93,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-93"
+  },
+  {
+    "id": 69,
+    "media_id": 258,
+    "mediable_id": 94,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-94"
+  },
+  {
+    "id": 70,
+    "media_id": 259,
+    "mediable_id": 95,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-95"
+  },
+  {
+    "id": 72,
+    "media_id": 261,
+    "mediable_id": 96,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-96"
+  },
+  {
+    "id": 73,
+    "media_id": 262,
+    "mediable_id": 97,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-97"
+  },
+  {
+    "id": 74,
+    "media_id": 263,
+    "mediable_id": 98,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-98"
+  },
+  {
+    "id": 75,
+    "media_id": 264,
+    "mediable_id": 99,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-99"
+  },
+  {
+    "id": 76,
+    "media_id": 265,
+    "mediable_id": 100,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-100"
+  },
+  {
+    "id": 77,
+    "media_id": 266,
+    "mediable_id": 101,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-101"
+  },
+  {
+    "id": 78,
+    "media_id": 267,
+    "mediable_id": 102,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-102"
+  },
+  {
+    "id": 79,
+    "media_id": 268,
+    "mediable_id": 103,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-103"
+  },
+  {
+    "id": 80,
+    "media_id": 269,
+    "mediable_id": 104,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-104"
+  },
+  {
+    "id": 81,
+    "media_id": 270,
+    "mediable_id": 105,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-105"
+  },
+  {
+    "id": 82,
+    "media_id": 271,
+    "mediable_id": 106,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-106"
+  },
+  {
+    "id": 83,
+    "media_id": 272,
+    "mediable_id": 107,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-107"
+  },
+  {
+    "id": 84,
+    "media_id": 273,
+    "mediable_id": 108,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-108"
+  },
+  {
+    "id": 85,
+    "media_id": 274,
+    "mediable_id": 109,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-109"
+  },
+  {
+    "id": 86,
+    "media_id": 275,
+    "mediable_id": 110,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-110"
+  },
+  {
+    "id": 87,
+    "media_id": 276,
+    "mediable_id": 111,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-111"
+  },
+  {
+    "id": 88,
+    "media_id": 277,
+    "mediable_id": 112,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-112"
+  },
+  {
+    "id": 89,
+    "media_id": 278,
+    "mediable_id": 113,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-113"
+  },
+  {
+    "id": 90,
+    "media_id": 279,
+    "mediable_id": 114,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-114"
+  },
+  {
+    "id": 91,
+    "media_id": 280,
+    "mediable_id": 115,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-115"
+  },
+  {
+    "id": 92,
+    "media_id": 281,
+    "mediable_id": 116,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-116"
+  },
+  {
+    "id": 93,
+    "media_id": 282,
+    "mediable_id": 117,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-117"
+  },
+  {
+    "id": 94,
+    "media_id": 283,
+    "mediable_id": 118,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-118"
+  },
+  {
+    "id": 95,
+    "media_id": 284,
+    "mediable_id": 119,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-119"
+  },
+  {
+    "id": 144,
+    "media_id": 333,
+    "mediable_id": 48,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-48"
+  },
+  {
+    "id": 145,
+    "media_id": 334,
+    "mediable_id": 1,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-1"
+  },
+  {
+    "id": 146,
+    "media_id": 335,
+    "mediable_id": 2,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-2"
+  },
+  {
+    "id": 147,
+    "media_id": 336,
+    "mediable_id": 3,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-3"
+  },
+  {
+    "id": 148,
+    "media_id": 337,
+    "mediable_id": 4,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-4"
+  },
+  {
+    "id": 149,
+    "media_id": 338,
+    "mediable_id": 5,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-5"
+  },
+  {
+    "id": 150,
+    "media_id": 339,
+    "mediable_id": 6,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-6"
+  },
+  {
+    "id": 151,
+    "media_id": 340,
+    "mediable_id": 7,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-7"
+  },
+  {
+    "id": 152,
+    "media_id": 341,
+    "mediable_id": 8,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-8"
+  },
+  {
+    "id": 153,
+    "media_id": 342,
+    "mediable_id": 9,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-9"
+  },
+  {
+    "id": 154,
+    "media_id": 343,
+    "mediable_id": 10,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-10"
+  },
+  {
+    "id": 155,
+    "media_id": 344,
+    "mediable_id": 11,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-11"
+  },
+  {
+    "id": 156,
+    "media_id": 345,
+    "mediable_id": 12,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-12"
+  },
+  {
+    "id": 157,
+    "media_id": 346,
+    "mediable_id": 13,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-13"
+  },
+  {
+    "id": 158,
+    "media_id": 347,
+    "mediable_id": 14,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-14"
+  },
+  {
+    "id": 159,
+    "media_id": 348,
+    "mediable_id": 15,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-15"
+  },
+  {
+    "id": 160,
+    "media_id": 349,
+    "mediable_id": 16,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-16"
+  },
+  {
+    "id": 161,
+    "media_id": 350,
+    "mediable_id": 17,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-17"
+  },
+  {
+    "id": 162,
+    "media_id": 351,
+    "mediable_id": 18,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-18"
+  },
+  {
+    "id": 163,
+    "media_id": 352,
+    "mediable_id": 19,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-19"
+  },
+  {
+    "id": 164,
+    "media_id": 353,
+    "mediable_id": 20,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-20"
+  },
+  {
+    "id": 165,
+    "media_id": 354,
+    "mediable_id": 21,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-21"
+  },
+  {
+    "id": 166,
+    "media_id": 355,
+    "mediable_id": 22,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-22"
+  },
+  {
+    "id": 167,
+    "media_id": 356,
+    "mediable_id": 23,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-23"
+  },
+  {
+    "id": 168,
+    "media_id": 357,
+    "mediable_id": 24,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-24"
+  },
+  {
+    "id": 169,
+    "media_id": 358,
+    "mediable_id": 25,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-25"
+  },
+  {
+    "id": 170,
+    "media_id": 359,
+    "mediable_id": 26,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-26"
+  },
+  {
+    "id": 171,
+    "media_id": 360,
+    "mediable_id": 27,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-27"
+  },
+  {
+    "id": 172,
+    "media_id": 361,
+    "mediable_id": 28,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-28"
+  },
+  {
+    "id": 173,
+    "media_id": 362,
+    "mediable_id": 29,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-29"
+  },
+  {
+    "id": 174,
+    "media_id": 363,
+    "mediable_id": 30,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-30"
+  },
+  {
+    "id": 175,
+    "media_id": 364,
+    "mediable_id": 31,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-31"
+  },
+  {
+    "id": 176,
+    "media_id": 365,
+    "mediable_id": 32,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-32"
+  },
+  {
+    "id": 177,
+    "media_id": 366,
+    "mediable_id": 33,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-33"
+  },
+  {
+    "id": 178,
+    "media_id": 367,
+    "mediable_id": 34,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-34"
+  },
+  {
+    "id": 180,
+    "media_id": 369,
+    "mediable_id": 36,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-36"
+  },
+  {
+    "id": 181,
+    "media_id": 370,
+    "mediable_id": 37,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-37"
+  },
+  {
+    "id": 182,
+    "media_id": 371,
+    "mediable_id": 38,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-38"
+  },
+  {
+    "id": 183,
+    "media_id": 372,
+    "mediable_id": 39,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-39"
+  },
+  {
+    "id": 184,
+    "media_id": 373,
+    "mediable_id": 40,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-40"
+  },
+  {
+    "id": 185,
+    "media_id": 374,
+    "mediable_id": 41,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-41"
+  },
+  {
+    "id": 186,
+    "media_id": 375,
+    "mediable_id": 42,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-42"
+  },
+  {
+    "id": 187,
+    "media_id": 376,
+    "mediable_id": 43,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-43"
+  },
+  {
+    "id": 188,
+    "media_id": 377,
+    "mediable_id": 44,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-44"
+  },
+  {
+    "id": 189,
+    "media_id": 378,
+    "mediable_id": 35,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-35"
+  },
+  {
+    "id": 190,
+    "media_id": 379,
+    "mediable_id": 45,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-45"
+  },
+  {
+    "id": 191,
+    "media_id": 380,
+    "mediable_id": 46,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-46"
+  },
+  {
+    "id": 192,
+    "media_id": 381,
+    "mediable_id": 47,
+    "mediable_type": "App\\Models\\Product",
+    "channel": "product-47"
+  }
+]

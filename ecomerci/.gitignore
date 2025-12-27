@@ -1,0 +1,54 @@
+# Laravel environment files
+.env
+
+
+# Node modules and related files
+/node_modules
+npm-debug.log*
+yarn-error.log*
+
+# Compiled assets and build files
+/public/build
+/public/hot
+
+# User-uploaded content (adjust paths as needed)
+public/media/
+public/media/*
+public/storage/
+public/storage/*
+!public/media/.gitignore
+/public/storage
+
+public/media1/*
+!public/media1/.gitignore
+
+# Laravel storage files
+/storage/*
+!storage/app/public
+!storage/framework
+!storage/logs
+/storage/*.key
+/storage/app/media  # Explicitly ignore media files
+
+# Caching and generated files
+/bootstrap/cache/*
+!bootstrap/cache/.gitignore
+
+# PHP-related files
+.phpunit.result.cache
+.phpunit.cache
+
+# IDE and editor-specific files
+/.idea
+/.vscode
+Homestead.json
+Homestead.yaml
+
+# Dependency management
+/vendor
+auth.json
+
+# Other temporary or system files
+/.fleet
+/public/media
+/public/storage

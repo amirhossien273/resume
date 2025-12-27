@@ -1,0 +1,178 @@
+/*================================================================================
+	Item Name: Vuexy - Vuejs, HTML & Laravel Admin Dashboard Template
+	Version: 2.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/IRANYekanWeb-Light.eot);
+  src: url(../fonts/IRANYekanWeb-Light.eot?#iefix) format('embedded-opentype'),
+  url(../fonts/IRANYekanWeb-Light.woff2) format('woff2'),
+  url(../fonts/IRANYekanWeb-Light.woff) format('woff'),
+  url(../fonts/IRANYekanWeb-Light.ttf) format('truetype')
+}
+
+@font-face {
+  font-family: 'IRANYekanWeb';
+  src: url('../fonts/IRANYekanWeb-Bold.eot');
+  src: url('../fonts/IRANYekanWeb-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/IRANYekanWeb-Bold.woff2') format('woff2'),
+  url('../fonts/IRANYekanWeb-Bold.woff') format('woff'),
+  url('../fonts/IRANYekanWeb-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+// @font-face {
+//   font-family: 'IRANYekanWebFaNum';
+//   src: url('../fonts/number/IRANYekanWebFaNum-Bold.eot');
+//   src: url('../fonts/number/IRANYekanWebFaNum-Bold.eot?#iefix') format('embedded-opentype'),
+//   // url('../fonts/number/IRANYekanWebFaNum-Bold.woff2') format('woff2'),
+//   // url('../fonts/number/IRANYekanWebFaNum-Bold.woff') format('woff'),
+//   // url('../fonts/number/IRANYekanWebFaNum-Bold.ttf') format('truetype'),
+//   url('../fonts/number/IRANYekanWebFaNum-Bold.svg#IRANYekanWebFaNum-Bold') format('svg');
+//   font-weight: bold;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: IRANYekanNumber;
+//   font-style: normal;
+//   font-weight: 500;
+//   src: url(../fonts/number/IRANYekanWebFaNum-Light.eot);
+//   src: url(../fonts/number/IRANYekanWebFaNum-Light.eot?#iefix) format('embedded-opentype'),
+//   url(../fonts/number/IRANYekanWebFaNum-Light.woff2) format('woff2'),
+//   url(../fonts/number/IRANYekanWebFaNum-Light.woff) format('woff'),
+//   url(../fonts/number/IRANYekanWebFaNum-Light.ttf) format('truetype')
+// }
+
+* {
+  font-family: IRANYekanWeb, IRANYekanWebFaNum ;
+}
+
+body{
+  font-family: IRANYekanWeb, IRANYekanWebFaNum !important;
+}
+.auth__card {
+  width: 500px;
+}
+
+.input__otp-style {
+  display: block;
+  letter-spacing: 1rem;
+  text-align: center;
+  padding-left: 1.8rem;
+}
+
+button:disabled {
+  border: none;
+}
+
+.back__arrow {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.mt-half {
+  margin-top: 0.4rem;
+}
+.fs-sm {
+  font-size: 0.8rem;
+}
+
+.dashboard__image {
+  width: 100%;
+  object-fit: contain;
+  @media (min-width: 768px) {
+    margin-top: 2rem;
+    height: 600px;
+  }
+}
+.calendar_wrapper {
+  overflow-x: auto;
+}
+.calendar_style-div {
+  height: 600px;
+  min-width: 600px;
+}
+
+// file uoload attachment
+
+.uploader__wrapper {
+  margin: auto;
+  padding: 1.5rem;
+  background: #ffffff;
+  border-radius: 15px;
+  box-shadow: 4px 8px 10px rgb(196, 196, 196);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  button {
+    margin-top: 1rem;
+  }
+  .uploader__title {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+}
+
+.uploader_file-upload {
+  text-align: center;
+  border: 3px dashed rgb(210, 227, 244);
+  padding: 1rem;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;
+  height: 300px;
+  overflow: hidden;
+
+  img {
+    border-radius: 15px;
+  }
+  .uploader_file-default-img {
+    opacity: 10%;
+  }
+  .uploader_file-img {
+    opacity: 70%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  h3 {
+    @media (max-width: 576px) {
+      width: 100%;
+      height: 90%;
+    }
+  }
+  p {
+    font-size: 0.8rem;
+    margin-top: 10px;
+    color: #bbcada;
+  }
+  input {
+    display: block;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    cursor: pointer;
+  }
+}
